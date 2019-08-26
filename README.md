@@ -64,3 +64,5 @@ Click to play button on toolbar.
 ### With VSCode
 
 Click to debug button. Then click play button.
+
+![image](https://user-images.githubusercontent.com/47516405/63660427-6231fe00-c7f1-11e9-87d5-aeb475137674.png)
