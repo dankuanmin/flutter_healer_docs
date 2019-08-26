@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Healer (Flutter Version)
 
 You can use the [editor on GitHub](https://github.com/dankuanmin/flutter_healer_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
