@@ -1,37 +1,66 @@
 ## Welcome to Healer (Flutter Version)
 
-You can use the [editor on GitHub](https://github.com/dankuanmin/flutter_healer_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Install Flutter SDK
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Install SDK follow the instruction
 
-### Markdown
+https://flutter.dev/docs/get-started/install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MacOS
 
-```markdown
-Syntax highlighted code block
+https://flutter.dev/docs/get-started/install/macos
 
-# Header 1
-## Header 2
-### Header 3
+### Windows
 
-- Bulleted
-- List
+https://flutter.dev/docs/get-started/install/windows
 
-1. Numbered
-2. List
+### Linux
 
-**Bold** and _Italic_ and `Code` text
+https://flutter.dev/docs/get-started/install/linux
 
-[Link](url) and ![Image](src)
+## Setup an Editor (Android Studio / IntelliJ IDEA / Visual Studio Code)
+
+https://flutter.dev/docs/get-started/editor
+
+Run flutter doctor to check install Flutter success
+
+```
+➜  flutter doctor 
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel beta, v1.6.3, on Mac OS X 10.14.5 18F132, locale en-JP)
+ 
+[✓] Android toolchain - develop for Android devices (Android SDK version 28.0.3)
+[✓] iOS toolchain - develop for iOS devices (Xcode 10.2.1)
+[✓] Android Studio (version 3.4)
+[✓] VS Code (version 1.35.0)
+[!] Connected device
+    ! No devices available
+
+! Doctor found issues in 1 category.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Install Packages
 
-### Jekyll Themes
+You can use terminal, or Android Studio, or VSCode
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dankuanmin/flutter_healer_docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### With the terminal
 
-### Support or Contact
+`cd <project root directory>` then run command `flutter pub get`
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### With Android Studio
+
+Click Packages get in the action ribbon at the top of pubspec.yaml.
+
+### With VSCode
+
+Click `Get Packages` located in right side of the action ribbon at the top of pubspec.yaml
+
+## Run project with simulator
+
+### With Android Studio
+
+Click to play button on toolbar.
+
+### With VSCode
+
+Click to debug button. Then click play button.
