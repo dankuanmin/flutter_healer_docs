@@ -18,7 +18,7 @@
 
 [https://flutter.dev/docs/get-started/install/linux](https://flutter.dev/docs/get-started/install/linux)
 
-## Setup an Editor (Android Studio / IntelliJ IDEA / Visual Studio Code)
+## Setup an Editor (Android Studio / Visual Studio Code)
 
 [https://flutter.dev/docs/get-started/editor](https://flutter.dev/docs/get-started/editor)
 
